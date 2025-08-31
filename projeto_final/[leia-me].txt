@@ -1,0 +1,12 @@
+O modelo foi treinado e exportado como "detectaInadimplencia.pkl". 
+Para ajustes, acessar o notebook "TrabalhoFinal_ICD".
+
+O front está no arquivo app.py, para colocar em operação, seguir os passos:
+- Acessar o terminal do Visual Studio Code;
+- Com Python 3.10 (recomendo) instalado, colocar comando pip install -r requirements.txt
+- Em seguida, colocar comando streamlit run app.py
+
+Se tudo ocorreu bem, abrirá uma página no navegador com o modelo carregado e as feaures para serem imputadas e testadas.
+
+
+by JV Pinheiro.
